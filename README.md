@@ -22,5 +22,5 @@
 1. Клонуйте репозиторій:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/rebte/Software-Lab-2.git
    cd <your-repo>
