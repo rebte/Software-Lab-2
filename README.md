@@ -23,4 +23,4 @@
 
    ```bash
    git clone https://github.com/rebte/Software-Lab-2.git
-   cd <your-repo>
+   cd Software-Lab-2
